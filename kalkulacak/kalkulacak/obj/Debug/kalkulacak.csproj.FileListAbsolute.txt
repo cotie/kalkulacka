@@ -1,0 +1,10 @@
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\bin\Debug\kalkulacak.exe.config
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\bin\Debug\kalkulacak.exe
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\bin\Debug\kalkulacak.pdb
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\obj\Debug\kalkulacak.csprojAssemblyReference.cache
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\obj\Debug\kalkulacak.Form1.resources
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\obj\Debug\kalkulacak.Properties.Resources.resources
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\obj\Debug\kalkulacak.csproj.GenerateResource.cache
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\obj\Debug\kalkulacak.csproj.CoreCompileInputs.cache
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\obj\Debug\kalkulacak.exe
+C:\Users\bedos\OneDrive\Plocha\kalkulacak\kalkulacak\obj\Debug\kalkulacak.pdb
